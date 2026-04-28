@@ -10,7 +10,7 @@ Soy un desarrollador enfocado en soluciones digitales prácticas. Combino mi for
 - 🌱 **Aprendiendo:** Perfeccionando mis habilidades en **Django**, **JavaScript** y manejo de APIs.
 - 👯 **Busco colaborar en:** Proyectos de código abierto que involucren automatización administrativa.
 - 💬 **Pregúntame sobre:** Desarrollo Web, gestión de agendas médicas y coordinación de equipos.
-- 📫 **Cómo contactarme:** juliandanielflorezguzman, www.linkedin.com/in/julianflorez-dev
+- 📫 **Cómo contactarme:** juliandanielflorezguzman@gmail.com, www.linkedin.com/in/julianflorez-dev
 
 
 ---
