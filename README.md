@@ -1,12 +1,14 @@
 # ¡Hola! Soy Julián D. Flórez G. 👋
 
-## 👨‍💻 Tecnólogo en Análisis y Desarrollo de Software | Automatización | Desarrollo Web
+## 👨‍💻 Tecnólogo en Análisis y Desarrollo de Software | Automatización | Desarrollo Web | Backend
 
-Desarrollador enfocado en construir soluciones digitales funcionales para optimizar procesos administrativos, operativos y de gestión.
+Desarrollador  de software Junior enfocado en la construcción de aplicaciones web funcionales, seguras y escalables utilizando tecnologías backend y frontend.
 
-Combino mi formación tecnológica en el **SENA** con más de 10 años de experiencia en coordinación de equipos, capacitación y gestión operativa en entornos de alta exigencia, aportando una visión práctica orientada a la resolución de problemas reales mediante tecnología.
+Tengo experiencia en el desarrollo de sistemas web con **PHP, MySQL, JavaScript, HTML y CSS**, aplicando lógica de programación, arquitectura modular y buenas prácticas de desarrollo.
 
-Actualmente me encuentro fortaleciendo mis habilidades en desarrollo backend, automatización y arquitectura de software.
+Actualmente me especializo en desarrollo backend, bases de datos relacionales y construcción de sistemas web orientados a la automatización de procesos y gestión de información.
+
+Me encuentro en constante aprendizaje en tecnologías modernas como frameworks backend, arquitectura MVC, APIs REST y herramientas de control de versiones como Git y GitHub.
 
 ---
 
@@ -18,46 +20,32 @@ Proyecto académico desarrollado en el SENA enfocado en la digitalización y opt
 
 ### 🔹 Características principales
 
-- Sistema de autenticación de usuarios
-- Gestión y capacitación de brigadistas
-- Administración de simulacros y actividades preventivas
-- Registro e instalación de sistemas de alerta
-- Gestión documental y cumplimiento normativo
-- Operaciones CRUD completas
-- Base de datos relacional con MySQL
+-Sistema de autenticación de usuarios con roles
+-Gestión de usuarios con control de acceso
+-Módulo de capacitaciones y seguimiento
+-Registro y gestión de eventos de emergencia en tiempo real
+-Generación de reportes en PDF y CSV
+-Envío de notificaciones automáticas por correo (PHPMailer + SMTP)
+-Sistema de roles (administrador, brigadista y empleado)
+-CRUD completo con base de datos relacional MySQL
+-Validaciones de seguridad en formularios y sesiones
+-Control de acceso a rutas mediante sesión PHP
 
 ### 🛠️ Tecnologías utilizadas
 
 - HTML5
 - CSS3
-- JavaScript
-- PHP
+- JavaScript (Fetch API)
+- PHP nativo (sin framework)
 - MySQL
-- XAMPP
+- Apache (XAMPP)
+- PHPMailer
+- FPDF
+- Git + GitHub
 
 ### 🎯 Objetivo
 
 Centralizar y automatizar procesos de seguridad empresarial mediante una plataforma intuitiva, escalable y orientada a la eficiencia operativa.
-
----
-
-## 🏘️ Software de Automatización para Propiedad Horizontal (En Construcción)
-
-Ecosistema digital diseñado para optimizar la administración de conjuntos residenciales mediante automatización inteligente.
-
-### 🔹 Funcionalidades planeadas
-
-- Control de acceso vehicular automatizado mediante RFID/NFC
-- Gestión y discriminación técnica de vehículos eléctricos y de combustión
-- Reserva digital de zonas comunes
-- Gestión de aforos
-- Panel administrativo web
-- Integración futura con aplicación móvil
-- Automatización de procesos administrativos y operativos
-
-### 🎯 Visión del proyecto
-
-Construir una solución moderna e integral para propiedad horizontal enfocada en seguridad, automatización y experiencia de usuario.
 
 ---
 
